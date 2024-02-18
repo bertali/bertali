@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hola hola 👋 </h1>
 
-I am Berta López, a frontend web developer<br>
+I am Berta López, a full-stack web developer<br>
 based in Barcelona, Spain! 🌞
 <br><br>
 
